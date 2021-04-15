@@ -1,0 +1,20 @@
+    #Názvy - dávat smysl: pøídavné jméno, podstatné jméno | podstatné jméno sloveso pøídavné jméno podstatné jméno
+          #Roztøídit podle slovních druhù
+          #Polka dots
+          #Pøíjmení
+          #Hodnocení - hvìzdièky
+      #Nakldatelství, rok vydání
+      #Ilustrátor, ale jen u nìkterých
+      #Filmové zpracování - rok - jen u nìkterých (mùže být víckrát pro více inscenací) condition: > rok vydání
+      #Popisek - interpunkce, více vìt, dávat smysl, "? ! ..."
+      #Jména hlavních postav - variabilní množství (seznam fiktivních jmen) / (fantasy jména z Facebooku - 2 zaè písmena jména 2 posl písmena pøíjmení)
+      ####Obrázky
+      #Pro každou knížku polièka (obr. v pozadí) - informace vpravo
+      #3D vizualizace knihy (stín, stránky, høbet)
+          #Variabilní font názvù + autora
+      ##Knížky høbetem bez info?????? - mimo text
+      #Odkaz na e-shop
+      #ISBN èíslo ve správném formátu
+      ##Multi-language support
+      #Pavuèina v rohu
+      #Seøadit podle abecedy

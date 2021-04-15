@@ -1,0 +1,11 @@
+Fantasy
+Science fiction
+Horror
+Western
+Romance
+Thriller
+Mystery
+Detective
+Dystopia
+Newspaper
+Adventure
